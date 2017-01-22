@@ -7,6 +7,10 @@ Statistics is an important field of math that is used to analyze, interpret, and
  interested in Data Science, Economics, Psychology, Machine Learning, Sports
  analytics and just about any other field.
 
+Inferential statistics allows us to draw conclusions from data that might not be
+immediately obvious. This course focuses on enhancing your ability to develop
+hypotheses and use common tests such as t-tests to validate your claims.
+
 ## What You Will Learn
 Lesson 1: Intro to Research Methods
 - Introduction to several statistical study methods.
@@ -36,11 +40,27 @@ between values
 Lesson 7: Sampling Distributions
 - Apply the concepts of probability and normalization to sample data sets.
 
+Lesson 8: Estimation
+- Estimate population parameters from sample statistics using confidence
+intervals.
+- Estimate the effect of a treatment.
+
+Lesson 9: Hypothesis Testing
+- How to determine if a treatment has changed the value of a population
+parameter.
+
+Lesson 10: t-tests
+- How to test the effect of a treatment.
+- Compare the difference in means for two groups when there are small sample
+sizes.
+
 ## Prerequisites and Requirements
 This course assumes understanding of basic algebra and arithmetic.
 
 ## Why Take This Course
-This course will teach you the basic terms and concepts in statistics as well as guide you through introductory probability.
+This course will teach you the basic terms and concepts in statistics, guide you
+through introductory probability, as well as the basic tools of inferential
+statistics.
 
 You will learn how to....
 
@@ -52,3 +72,5 @@ You will learn how to....
 common visualizations.
 - Investigate distributions and understand a distributions properties.
 - Manipulate distributions to make probabilistic predictions on data.
+- Estimate parameters of a population using sample statistics.
+- Conduct hypothesis testing and construct confidence intervals.
